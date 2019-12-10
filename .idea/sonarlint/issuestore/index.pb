@@ -25,5 +25,13 @@ J
 src/test/HamcrestDemo.java,c\8\c889bb6cb953b50d1d2e4a093ecf9f7f6974d826
 H
 src/test/PersonTest.java,d\c\dca405562368a33a780c0ad83309d38472020255
-B
-src/main/Test.java,4\7\479a758b42017cab1ab37b648017e67fe6c05495
+H
+src/main/StrTokDemo.java,1\b\1b2de0f14bef39270fbefa420ef32a9c78e2b197
+K
+src/main/SubStringDemo.java,e\f\ef89e165a9d3b74358a7b1d671ab303e06a85a43
+L
+src/main/LoggingExample.java,7\5\755be83511285b254467ec7df2683fc18b2f11bb
+I
+src/main/SysPropDemo.java,3\b\3b79f578368d23d680061fa86715dfa9f52c554e
+K
+src/main/CheckForSwing.java,5\7\5783af10cbc457d6dda962c9884153820a0a31f7

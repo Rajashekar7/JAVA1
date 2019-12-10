@@ -1,0 +1,5 @@
+
+Wsquid:MissingDeprecatedCheck"(Add the missing @deprecated Javadoc tag.(ÏÑ·Ã8Æ‘ª∏Ì-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ﬁÇ›Á8€≤§∏Ì-
+Ssquid:S1133"5Do not forget to remove this deprecated code someday.(ÏÑ·Ã8Æ‘ª∏Ì-
